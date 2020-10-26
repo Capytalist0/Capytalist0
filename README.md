@@ -1,4 +1,4 @@
-[![Header](https://github.com/Capytalist0/Capytalist0/raw/master/assets/earth-5454439_1920.png "Header")](https://capytalist.dev/)
+[![Social banner for Capytalist](https://github.com/Capytalist0/Capytalist0/blob/main/assets/earth-5454439_1920.jpg)](https://capytalist.dev/)
 ### Hi there 👋
 
 <!--
