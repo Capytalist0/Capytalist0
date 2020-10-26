@@ -1,4 +1,5 @@
-[![Social banner for Capytalist](https://github.com/Capytalist0/Capytalist0/blob/main/assets/earth-5454439_1920.jpg)](https://capytalist.dev/)
+[![Social banner for Capytalist, Star vector created by vectorpouch](https://github.com/Capytalist0/Capytalist0/blob/main/assets/header.jpg)](https://capytalist.dev/)
+
 ### Hi there 👋
 
 <!--
